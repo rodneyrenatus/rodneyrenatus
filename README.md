@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Rodney Renatus Mushi, a student in Swinburne Univeristy of Technology.<br/>
-Curently a second year in Bachelor of Engineering (Honours) (Robotics and Mechatronics)/Bachelor of Computer Science.
+Curently a second year in Bachelor of Engineering (Honours) (Robotics and Mechatronics)/Bachelor of Computer Science.<br/>
 A front end developer studying react.js with the intent of becoming a full stack developer as well as an Artificial Intelligence Engineer.
 <!--
 **rodneyrenatus/rodneyrenatus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

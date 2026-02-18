@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rodney Renatus Mushi, a student in Swinburne Univeristy of Technology.
+I'm Rodney Renatus Mushi, a student in Swinburne Univeristy of Technology.<br/>
 Curently a second year in Bachelor of Engineering (Honours) (Robotics and Mechatronics)/Bachelor of Computer Science.
 A front end developer studying react.js with the intent of becoming a full stack developer as well as an Artificial Intelligence Engineer.
 <!--

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
+  <rect width="1200" height="310" fill="#000"/>
+  <rect x="1" y="1" width="1198" height="308" fill="none" stroke="#fff" stroke-width="2"/>
+  <path d="M1 52H1199" stroke="#fff" opacity=".65"/>
+  <circle cx="28" cy="27" r="5" fill="#fff"/>
+  <circle cx="48" cy="27" r="5" fill="none" stroke="#fff"/>
+  <circle cx="68" cy="27" r="5" fill="none" stroke="#fff"/>
+  <text x="94" y="34" fill="#fff" font-family="monospace" font-size="16" letter-spacing="2">PROFILE.SYS / RODNEYRENATUS</text>
+  <text x="1148" y="34" text-anchor="end" fill="#fff" font-family="monospace" font-size="14">[ ONLINE ]</text>
+  <text x="62" y="151" fill="#fff" font-family="monospace" font-size="58" font-weight="700" letter-spacing="-2">RODNEY RENATUS</text>
+  <text x="65" y="195" fill="#fff" font-family="monospace" font-size="18" letter-spacing="1">SOFTWARE / SYSTEMS / EXPERIMENTS</text>
+  <path d="M64 224H705" stroke="#fff" opacity=".7"/>
+  <text x="65" y="262" fill="#fff" font-family="monospace" font-size="17">$ whoami</text>
+  <text x="178" y="262" fill="#fff" font-family="monospace" font-size="17">student, builder, curious by default</text>
+  <rect x="65" y="277" width="10" height="18" fill="#fff"/>
+  <g fill="none" stroke="#fff" stroke-width="1.5">
+    <path d="M865 93H1085V243H865z"/>
+    <path d="M865 131H1085M865 205H1085M920 93V243M1030 93V243"/>
+    <path d="M920 131L975 168L1030 131M920 205L975 168L1030 205"/>
+    <circle cx="920" cy="131" r="5" fill="#000"/>
+    <circle cx="1030" cy="131" r="5" fill="#000"/>
+    <circle cx="975" cy="168" r="5" fill="#000"/>
+    <circle cx="920" cy="205" r="5" fill="#000"/>
+    <circle cx="1030" cy="205" r="5" fill="#000"/>
+  </g>
+  <text x="865" y="273" fill="#fff" font-family="monospace" font-size="13" letter-spacing="2">NODE MAP / 001</text>
+  <text x="1137" y="286" text-anchor="end" fill="#fff" font-family="monospace" font-size="13">001 — 004</text>
+</svg>

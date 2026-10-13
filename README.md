@@ -1,38 +1,48 @@
+<p align="center">
+  <img src="assets/header.svg" alt="Rodney Renatus terminal profile" width="100%">
+</p>
 
-# Hey, I'm Rodney.
+<p align="center"><code>USER: RODNEYRENATUS / MODE: BUILDING / LOCATION: MALAYSIA</code></p>
 
-I build software, explore ideas, and enjoy figuring out how things work.
+<p align="center"><code>Software development student. I build projects to understand how things work.</code></p>
 
-Developer / Student / Builder
+<p align="center"><img src="assets/about.svg" alt="01 — About" width="100%"></p>
 
----
+```text
+Interested in software, game development, robotics, and systems built from scratch.
+This profile is an index of things I have made, learned, and continue to improve.
+```
 
-### 01 / About
+<p align="center"><img src="assets/projects.svg" alt="02 — Selected repositories" width="100%"></p>
 
-I'm interested in software engineering, game development, and building things from scratch.
+```text
+[01]  CHESS_C
+      A chess game written in C.
 
-Currently learning, experimenting, and working on projects that challenge me.
+[02]  SPACE-SHOOTER
+      A two-player space shooter built with Python.
 
-### 02 / Selected work
+[03]  ZELDA_2D
+      A 2D project inspired by The Legend of Zelda.
+```
 
-**[Chess in C](https://github.com/rodneyrenatus/chess_c)**  
-A chess game developed in C.
+<p align="center">
+  <code><a href="https://github.com/rodneyrenatus/chess_c">[ chess_c ]</a></code>
+  &nbsp;
+  <code><a href="https://github.com/rodneyrenatus/space-shooter">[ space-shooter ]</a></code>
+  &nbsp;
+  <code><a href="https://github.com/rodneyrenatus/Zelda_2d">[ Zelda_2d ]</a></code>
+</p>
 
-**[Space Shooter](https://github.com/rodneyrenatus/space-shooter)**  
-A two-player space shooter built with Python.
+<p align="center"><img src="assets/stack.svg" alt="03 — Tools and languages" width="100%"></p>
 
-**[Zelda 2D](https://github.com/rodneyrenatus/Zelda_2d)**  
-A 2D game project inspired by Zelda.
+<p align="center">
+  <code>PYTHON</code> &nbsp; <code>C</code> &nbsp; <code>C#</code>
+  &nbsp; <code>JAVASCRIPT</code> &nbsp; <code>REACT</code> &nbsp; <code>ARDUINO</code>
+</p>
 
-### 03 / Technologies
+<p align="center"><img src="assets/contact.svg" alt="04 — Find me" width="100%"></p>
 
-`Python` · `C` · `C#` · `JavaScript` · `React` · `Arduino`
+<p align="center"><code><a href="https://github.com/rodneyrenatus">GITHUB.COM/RODNEYRENATUS ↗</a></code></p>
 
-### 04 / GitHub
-
-[Repositories](https://github.com/rodneyrenatus?tab=repositories) · [Profile](https://github.com/rodneyrenatus)
-
----
-
-<sub>Always building something.</sub>
-  
+<p align="center"><code>END_OF_FILE / © RODNEY RENATUS</code></p>
